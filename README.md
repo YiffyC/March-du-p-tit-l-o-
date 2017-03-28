@@ -1,4 +1,4 @@
 # Site_Leo
 Site de l'asso Le Marché Du P'tit Léo
 
-Les tu toriaux se trouvent dans le dossier "Tuto"
+Les tutoriaux se trouvent dans le dossier "Tuto". Ouvir le tutoriel en .pdf.
